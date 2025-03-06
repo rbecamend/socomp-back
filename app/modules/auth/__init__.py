@@ -1,0 +1,1 @@
+print("MÓDULO 'auth' CARREGADO COM SUCESSO.")

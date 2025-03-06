@@ -1,0 +1,1 @@
+print("MÓDULO 'interface' CARREGADO COM SUCESSO.")
