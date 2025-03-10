@@ -1,0 +1,1 @@
+print("MÓDULO 'advisor' CARREGADO COM SUCESSO.")

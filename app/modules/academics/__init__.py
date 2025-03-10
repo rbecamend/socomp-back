@@ -1,0 +1,1 @@
+print("MÓDULO 'academics' CARREGADO COM SUCESSO.")
