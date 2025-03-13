@@ -1,2 +1,4 @@
 .venv
 .socomp-back
+.socomp-venv
+.env

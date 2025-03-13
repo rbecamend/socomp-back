@@ -1,0 +1,1 @@
+print("MÓDULO 'data' CARREGADO COM SUCESSO.")

@@ -1,0 +1,1 @@
+print("MÓDULO 'scripts' CARREGADO COM SUCESSO.")
